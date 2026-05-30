@@ -8,6 +8,8 @@ I focus on making cloud operations simpler — fewer manual steps, less wasted s
 
 ### What I'm working on
 
+Check out my repos:
+
 - **[vm-power-manager](https://github.com/Tarunrj99/vm-power-manager)** — Cloud-agnostic VM lifecycle automation. Auto-stops idle GPU VMs, Slack alerts & control, multi-cloud support (GCP/AWS/Azure/SSH).
 - **[cloud-alert-hub](https://github.com/Tarunrj99/cloud-alert-hub)** — Unified alerting for any cloud. Billing, SLO, security events → Slack & email from a single YAML config.
 - **[GCP-Alert-Automation-System](https://github.com/Tarunrj99/GCP-Alert-Automation-System)** — Production alerting for Google Cloud Platform.
