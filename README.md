@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=180&section=header" width="100%" />
 
 <h1 align="center">Tarun Saini</h1>
-<h3 align="center">Senior Cloud & DevOps Engineer</h3>
+<h3 align="center">DevOps Lead | Infrastructure Automation | Multi-Cloud Architecture | Cost Optimization</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarunrj99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +20,7 @@
 <i>I design and build systems that keep infrastructure running, teams productive, and cloud bills under control.</i>
 </p>
 
-4+ years leading DevOps teams, shipping multi-region HA architectures, and building automation tools across GCP, AWS, and hybrid environments — from Kubernetes clusters to custom Slack-integrated monitoring.
+7+ years in cloud and infrastructure engineering, with 4+ years leading DevOps teams — shipping multi-region HA architectures, building automation tools, and optimizing costs across GCP, AWS, and hybrid environments. From Kubernetes clusters to custom Slack-integrated monitoring, I build what teams need to move fast and stay reliable.
 
 ---
 
