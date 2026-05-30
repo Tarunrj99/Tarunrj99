@@ -34,7 +34,7 @@ Databases:      PostgreSQL · MongoDB Atlas · Cloud SQL
 
 ### Certifications
 
-- Google Cloud Professional Cloud DevOps Engineer
+- Google Cloud Associate Cloud Engineer
 - Certified Kubernetes Administrator (CKA)
 - Red Hat Certified Engineer (RHCE)
 - Red Hat Certified System Administrator (RHCSA)
