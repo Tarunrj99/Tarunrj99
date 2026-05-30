@@ -1,5 +1,4 @@
-<h1 align="center">Tarun Saini</h1>
-<h3 align="center">Senior Cloud & DevOps Engineer</h3>
+<img src="header.svg" width="100%" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarunrj99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,53 +13,82 @@
 
 ---
 
-I design and build systems that keep infrastructure running, teams productive, and cloud bills under control.
+<p align="center">
+<i>I design and build systems that keep infrastructure running, teams productive, and cloud bills under control.</i>
+</p>
 
 4+ years leading DevOps teams, shipping multi-region HA architectures, and building automation tools across GCP, AWS, and hybrid environments — from Kubernetes clusters to custom Slack-integrated monitoring.
 
 ---
 
-### Featured Projects
+### <img src="https://img.shields.io/badge/-Featured_Projects-181717?style=flat-square" /> 
 
-| Project | What it does |
-|---------|-------------|
-| **[vm-power-manager](https://github.com/Tarunrj99/vm-power-manager)** | Auto-stop idle GPU VMs, Slack alerts & control, multi-cloud (GCP/AWS/Azure/SSH) |
-| **[cloud-alert-hub](https://github.com/Tarunrj99/cloud-alert-hub)** | Unified alerting — billing, SLO, security → Slack & email from one YAML |
-| **[GCP-Alert-Automation-System](https://github.com/Tarunrj99/GCP-Alert-Automation-System)** | Production alerting for Google Cloud Platform |
-| **[AWS-Alert-Automation-System](https://github.com/Tarunrj99/AWS-Alert-Automation-System)** | Zero-cost SES bounce monitoring with Slack alerts |
-| **[grafana-stack-templates](https://github.com/Tarunrj99/grafana-stack-templates)** | Reusable Grafana Cloud modules: checks, alerts, dashboards |
+| Project | What it does | Tech |
+|---------|-------------|------|
+| **[vm-power-manager](https://github.com/Tarunrj99/vm-power-manager)** | Auto-stop idle GPU VMs, Slack control, multi-cloud | Python, GCP, SSH |
+| **[cloud-alert-hub](https://github.com/Tarunrj99/cloud-alert-hub)** | Unified alerting → Slack & email from one YAML | Python, Cloudflare |
+| **[GCP-Alert-Automation-System](https://github.com/Tarunrj99/GCP-Alert-Automation-System)** | Production alerting for Google Cloud | GCP, Python |
+| **[AWS-Alert-Automation-System](https://github.com/Tarunrj99/AWS-Alert-Automation-System)** | SES bounce monitoring with Slack alerts | AWS, Lambda |
+| **[grafana-stack-templates](https://github.com/Tarunrj99/grafana-stack-templates)** | Reusable Grafana modules: checks, alerts, dashboards | Grafana, YAML |
 
 ---
 
-### Tech Stack
+### <img src="https://img.shields.io/badge/-Tech_Stack-181717?style=flat-square" />
 
+**Cloud & Infrastructure**
 <p>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+</p>
+
+**Containers & Orchestration**
+<p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+
+**CI/CD & Automation**
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+
+**Monitoring & Observability**
+<p>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
+
+**Security**
+<p>
+  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma_Cloud-00BCD4?style=flat-square&logo=paloaltonetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kyverno-FF9800?style=flat-square&logo=kubernetes&logoColor=white" />
+</p>
+
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
 ---
 
-### How I think about DevOps
+### <img src="https://img.shields.io/badge/-Philosophy-181717?style=flat-square" />
 
 > *Automate everything. Monitor what matters. Make infrastructure invisible to developers — so they can focus on shipping.*
 
@@ -74,3 +102,5 @@ I design and build systems that keep infrastructure running, teams productive, a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunrj99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
+
+<img src="footer.svg" width="100%" />
