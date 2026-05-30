@@ -102,8 +102,4 @@
   <img src="https://streak-stats.demolab.com?user=Tarunrj99&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunrj99&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=120&section=footer" width="100%" />
