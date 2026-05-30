@@ -14,9 +14,9 @@
 
 ---
 
-I build tools that make cloud operations simpler — fewer manual steps, less wasted spend, more control from where teams already work.
+I design and build systems that keep infrastructure running, teams productive, and cloud bills under control.
 
-4+ years designing multi-region HA architectures, leading DevOps teams, and shipping infrastructure automation across GCP, AWS, and hybrid environments.
+4+ years leading DevOps teams, shipping multi-region HA architectures, and building automation tools across GCP, AWS, and hybrid environments — from Kubernetes clusters to custom Slack-integrated monitoring.
 
 ---
 
@@ -42,6 +42,7 @@ I build tools that make cloud operations simpler — fewer manual steps, less wa
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
@@ -53,17 +54,23 @@ I build tools that make cloud operations simpler — fewer manual steps, less wa
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white" />
 </p>
 
 ---
 
-### What I believe in
+### How I think about DevOps
 
-> *One config file should be enough. If it can be automated, it should be. Cloud spend is everyone's problem.*
+> *Automate everything. Monitor what matters. Make infrastructure invisible to developers — so they can focus on shipping.*
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tarunrj99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunrj99&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunrj99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </p>
