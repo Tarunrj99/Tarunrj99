@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=200&section=header&text=Tarun%20Saini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18&descColor=a9b1d6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=180&section=header" width="100%" />
+
+<h1 align="center">Tarun Saini</h1>
+<h3 align="center">Senior Cloud & DevOps Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarunrj99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -96,11 +99,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tarunrj99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarunrj99&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Tarunrj99&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunrj99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunrj99&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=120&section=footer" width="100%" />
