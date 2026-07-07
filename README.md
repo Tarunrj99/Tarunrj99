@@ -4,14 +4,14 @@
 <h3 align="center">DevOps Lead | Infrastructure Automation | Multi-Cloud Architecture | Cost Optimization</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarunrj99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tarunrj99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat&logo=red-hat&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat&logo=red-hat&logoColor=white" /></a>
 </p>
 
 ---
