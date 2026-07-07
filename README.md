@@ -36,6 +36,14 @@
 
 ---
 
+### <img src="https://img.shields.io/badge/-Notes_%26_Resources-181717?style=flat-square" />
+
+| Repo | What's inside |
+|------|---------------|
+| **[tech-notes](https://github.com/Tarunrj99/tech-notes)** | Runbooks, troubleshooting guides & CLI tools for cloud, Linux, Kubernetes, and macOS — including a [live Mac system monitor](https://github.com/Tarunrj99/tech-notes/tree/main/mac/mac-info) |
+
+---
+
 ### <img src="https://img.shields.io/badge/-Tech_Stack-181717?style=flat-square" />
 
 **Cloud & Infrastructure**
