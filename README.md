@@ -20,11 +20,13 @@
 <i>I design and build systems that keep infrastructure running, teams productive, and cloud bills under control.</i>
 </p>
 
+<p align="center">
 7+ years in cloud and infrastructure engineering, with 4+ years leading DevOps teams — shipping multi-region HA architectures, building automation tools, and optimizing costs across GCP, AWS, and hybrid environments. From Kubernetes clusters to custom Slack-integrated monitoring, I build what teams need to move fast and stay reliable.
+</p>
 
 ---
 
-### <img src="https://img.shields.io/badge/-Featured_Projects-181717?style=flat-square" /> 
+### <img src="https://img.shields.io/badge/-Featured_Projects-181717?style=flat-square" />
 
 | Project | What it does | Tech |
 |---------|-------------|------|
