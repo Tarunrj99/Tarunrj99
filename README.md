@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:4285F4&height=180&section=header" width="100%" />
 
 <h1 align="center">Tarun Saini</h1>
-<h3 align="center">DevOps Lead | Infrastructure Automation | Multi-Cloud Architecture | Cost Optimization</h3>
+<h3 align="center">Senior DevOps Lead | Cloud & Infrastructure Automation | Multi-Cloud Architecture | Cost Optimization</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tarun99"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,9 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://credly.com/badges/49e616c4-a0c2-4912-af7c-ba63d333b076"><img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://credly.com/badges/f4175bf3-0e2b-4aa7-8adb-7d194c134a90"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat&logo=red-hat&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified_SysAdmin-EE0000?style=flat&logo=red-hat&logoColor=white" /></a>
 </p>
 
 ---
@@ -95,9 +96,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
+
+---
+
+### <img src="https://img.shields.io/badge/-Recognition-181717?style=flat-square" />
+
+| Award | Company | Year |
+|-------|---------|------|
+| 🏆 Above and Beyond Work | Compliance Innovation | 2023 |
+| 🏆 Outstanding Performance | Competent Groove | 2022 |
 
 ---
 
