@@ -103,15 +103,6 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-Recognition-181717?style=flat-square" />
-
-| Award | Company | Year |
-|-------|---------|------|
-| 🏆 Above and Beyond Work | Compliance Innovation | 2023 |
-| 🏆 Outstanding Performance | Competent Groove | 2022 |
-
----
-
 ### <img src="https://img.shields.io/badge/-Philosophy-181717?style=flat-square" />
 
 > *Automate everything. Monitor what matters. Make infrastructure invisible to developers — so they can focus on shipping.*
