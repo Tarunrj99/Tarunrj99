@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://credly.com/badges/49e616c4-a0c2-4912-af7c-ba63d333b076"><img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
-  <a href="https://credly.com/badges/f4175bf3-0e2b-4aa7-8adb-7d194c134a90"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/49e616c4-a0c2-4912-af7c-ba63d333b076/public_url"><img src="https://img.shields.io/badge/GCP-Associate_Cloud_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" /></a>
+  <a href="https://www.credly.com/badges/f4175bf3-0e2b-4aa7-8adb-7d194c134a90/public_url"><img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=flat&logo=kubernetes&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/RHCE-Red_Hat_Certified_Engineer-EE0000?style=flat&logo=red-hat&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/tarun99/details/certifications/"><img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified_SysAdmin-EE0000?style=flat&logo=red-hat&logoColor=white" /></a>
 </p>
